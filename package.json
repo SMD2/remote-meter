@@ -1,0 +1,15 @@
+{
+  "name": "remotemeter",
+  "version": "1.0.0",
+  "description": "Monitor meters from remote",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.3.0"
+  }
+}
